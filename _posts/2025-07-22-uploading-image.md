@@ -9,16 +9,16 @@ comments: true
 
 Below is just about uploading the image
 ---
-Let's work !!!!
+cung lam nao !!!!
 
 
 ## Practice
 
-![test_kitten_from_internet](https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/07/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.jpeg)
+![revelation card](https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/07/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.jpeg)
 
 I did it!
 
-![test_kitten](/assets/images/assets/images/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.avif)
+![revaletion_card](/assets/images/assets/images/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.avif)
 
 This is how to upload from your assets
 
