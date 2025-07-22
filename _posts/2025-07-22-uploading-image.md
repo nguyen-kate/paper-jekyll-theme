@@ -14,7 +14,7 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![test_kitten_from_internet](https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/07/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.jpeg)
 
 This is how to upload the image from the internet!
 
