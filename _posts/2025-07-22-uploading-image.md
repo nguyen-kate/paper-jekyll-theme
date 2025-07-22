@@ -16,7 +16,7 @@ Let's work !
 
 ![test_kitten_from_internet](https://static1.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/07/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.jpeg)
 
-This is how to upload the image from the internet!
+I did it!
 
 ![test_kitten](/assets/images/test_kitten.jpeg)
 
