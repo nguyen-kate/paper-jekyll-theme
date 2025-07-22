@@ -18,7 +18,7 @@ Let's work !!!!
 
 I did it!
 
-![test_kitten](/assets/images/test_kitten.jpeg)
+![test_kitten](/assets/images/assets/images/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.avif)
 
 This is how to upload from your assets
 
