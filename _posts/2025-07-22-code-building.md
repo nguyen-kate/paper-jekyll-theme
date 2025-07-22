@@ -30,7 +30,7 @@ name = "Kate"
 age = 19
 is_student = True
 
-printf("My name is {name}, I am {age} years old.")
+printf("My name is Kate, I am 19 years old.")
 ~~~
 
 In this example:
