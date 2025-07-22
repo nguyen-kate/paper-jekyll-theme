@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's upload the code lines!"
+title: "Let's upload the code lines!!!!"
 description: "Test post for code line uploading"
 date: 2025-07-22
 tags: [test, style]
@@ -16,7 +16,7 @@ Let's work!
 ### 01. Hello World in Python
 
 ~~~python
-print("Hello, World!")
+print("Hello World!")
 ~~~
 
 This is the most basic Python command. It prints a string to the console.
@@ -26,8 +26,8 @@ This is the most basic Python command. It prints a string to the console.
 ### 02. Variables and Data Types in Python
 
 ~~~python
-name = "Junhee"
-age = 21
+name = "Kate"
+age = 19
 is_student = True
 
 print(f"My name is {name}, I am {age} years old.")
