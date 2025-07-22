@@ -18,7 +18,7 @@ cung lam nao !!!!
 
 I did it!
 
-![revaletion_card]([/assets/images/assets/images/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.avif](https://github.com/nguyen-kate/paper-jekyll-theme/blob/master/assets/images/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.avif))
+![revaletion_card](https://github.com/nguyen-kate/paper-jekyll-theme/blob/master/assets/images/a-revelation-card-with-two-staffs-wearing-jester-hats-in-persona-5-the-phantom-x.avif)
 
 This is how to upload from your assets
 
